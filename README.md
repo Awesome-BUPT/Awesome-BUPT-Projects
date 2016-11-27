@@ -86,4 +86,4 @@ _注：斜体表示该课程为专业选修_
 
 ## Contributing
 
-Please feel free to *Pull Request* or *Issue* 😉
+我们十分欢迎你一起分享你的代码，在那之前请先在CONTRIBUTING.md查看须知:)
