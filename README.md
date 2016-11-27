@@ -28,13 +28,13 @@ _注：斜体表示该课程为专业选修_
 
 #### 2014级
 
-* [模拟旅行系统_Ye Wenting](https://github.com/YeWenting/Results-Management-System) - 使用模拟退火算法&分支界限法求解最优路线，Qt设计图形化界面。 [MIT][[Ye Wenting]](https://github.com/YeWenting)
+* [模拟旅行系统](https://github.com/YeWenting/Results-Management-System) - 使用模拟退火算法&分支界限法求解最优路线，Qt设计图形化界面。 [[Ye Wenting]](https://github.com/YeWenting) [MIT]
 
 ### 面向对象程序设计与实践（C++）2
 
 #### 2014级
 
-* [成绩管理系统](https://github.com/YeWenting/Results-Management-System) - 使用设计模式实现类的架构，运用Select() API配合Socket相关操作实现多用户网络访问功能。  [MIT][[Ye Wenting]](https://github.com/YeWenting)
+* [成绩管理系统](https://github.com/YeWenting/Results-Management-System) - 使用设计模式实现类的架构，运用Select() API配合Socket相关操作实现多用户网络访问功能。  [[Ye Wenting]](https://github.com/YeWenting) [MIT] 
 
 ### 算法设计与分析
 
@@ -44,7 +44,7 @@ _注：斜体表示该课程为专业选修_
 
 ### 计算机网络
 
-* [选择重传协议](https://github.com/YeWenting/BUPT-Homework/tree/master/Algorithm%20Design) - YY了一个“NAK”流选择重传协议，能够自适应不同误码率下的网络环境，性能接近理论最大值。 [MIT][[Ye Wenting]](https://github.com/YeWenting)
+* [选择重传协议](https://github.com/YeWenting/BUPT-Homework/tree/master/Algorithm%20Design) - YY了一个“NAK”流选择重传协议，能自适应不同误码率下的环境，性能接近理论最大值。 [[Ye Wenting]](https://github.com/YeWenting) [MIT] 
 
 ### 数字逻辑与数字系统课程设计
 
@@ -62,7 +62,7 @@ _注：斜体表示该课程为专业选修_
 
 #### 2014级
 
-* [通讯录网站](https://github.com/YeWenting/yewenting.github.com) - 一个允许登录、编辑联系人的网页，使用了jquery-validation和jquery-alert实现数据验证和弹框效果。[MIT][[Ye Wenting]](https://github.com/YeWenting)
+* [通讯录网站](https://github.com/YeWenting/yewenting.github.com) - 一个允许登录、编辑联系人的网页，使用了jquery-validation和jquery-alert实现数据验证和弹框效果。[[Ye Wenting]](https://github.com/YeWenting) [MIT] 
 
 ### 编译原理与技术
 
