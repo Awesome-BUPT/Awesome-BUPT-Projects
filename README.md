@@ -110,6 +110,4 @@
 
 ## 贡献
 
-~~贡献之前，请阅读 [**相关事项**](CONTRIBUTING.md)。~~
-
-我们十分欢迎你一起分享你的代码，在那之前请先在CONTRIBUTING.md查看须知:)
+我们十分欢迎你一起分享你的代码，在那之前请先在[CONTRIBUTING.md](CONTRIBUTING.md)查看须知:)
