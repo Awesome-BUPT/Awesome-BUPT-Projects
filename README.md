@@ -1,4 +1,4 @@
-﻿# Awesome BUPT Projects
+# Awesome BUPT Projects
 
 > A curated list of BUPT projects
 
@@ -15,6 +15,7 @@
 - [BOT Man](https://github.com/BOT-Man-JL/BUPT-Projects) [MIT]
 - [Connor1996](https://github.com/Connor1996/BUPT-Projects)
 - [Thesharing](https://github.com/Thesharing/school-projects) [GPL-3.0]
+- [seagullbird](https://github.com/seagullbird)
 - [Ye Wenting](https://github.com/YeWenting/BUPT-Projects) [MIT]
 
 ## 归档
@@ -40,6 +41,7 @@
 - [BOT Man & Resurgam Akane & WalkerJG](https://github.com/BOT-Man-JL/BUPT-Projects/tree/master/2-1-Data-Structure/Travel%20Management%20Project) [MIT]
 - [Connor1996](https://github.com/Connor1996/Travel-Query-System) - 数据结构课程设计的选题，采用QT开发
 - [thiefuniverse](https://github.com/thiefuniverse/travel_plan)
+- [seagullbird](https://github.com/seagullbird/Tourguide_System) - QT & Sqlite
 - [Ye Wenting](https://github.com/YeWenting/Results-Management-System) - 使用模拟退火算法&分支界限法求解最优路线，Qt设计图形化界面。[MIT]
 
 ### 算法设计与分析
@@ -77,6 +79,7 @@
 
 #### 通讯录网站
 
+- [seagullbird](https://github.com/seagullbird/BLEXT) - Flask 开发一站式博客服务。配套 Electron(基于node.js) 开发桌面 markdown 编辑器 [here](https://github.com/seagullbird/BLEXT-editor) [MIT]
 - [Ye Wenting](https://github.com/YeWenting/yewenting.github.com) - 一个允许登录、编辑联系人的网页，使用了jquery-validation和jquery-alert实现数据验证和弹框效果。 [MIT]
 
 ### 面向对象程序设计与实践（C++） - 2
