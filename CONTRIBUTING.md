@@ -1,14 +1,11 @@
-# Contribution Guidelines
-Please ensure your pull request adheres to the following guidelines:
+# 贡献指南
 
-* Please make an individual pull request for each suggestion.
-* Use the following format: \[REPO-NAME\]\(REPO-LINK\) - DESCRIPTION.  [LICENCE] 
-* Keep descriptions short and simple.
-* End all descriptions with a full stop/period.
-* Make sure your text editor is set to remove trailing whitespace.
-* Order projects alphabetically within each category.
-* Check your spelling and grammar.
-* New categories, or improvements to the existing categorisation are welcome.
+请确保你提交的 PR 遵守了以下内容：
+* 对每个建议提交一个单独的 Issue 或 Pull Request
+* 每条仓库链接均采用如下格式：`[仓库名称](仓库链接)[：描述（可选）] [许可证（可选）]`
+* 请尽量保证仓库描述的简洁，描述后无需结束符（标点符号）
+* 保证你的文本编辑器使用 UTF-8 编码，并移除了多余的空字符
+* 每个目录内的项目按字典序排列
+* 无拼写或语法错误
 
-Thank you for your suggestions!
-
+同时欢迎你为仓库添加新的项目分类，欢迎你提出任何意见！
