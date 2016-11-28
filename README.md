@@ -1,5 +1,9 @@
 ﻿# Awesome BUPT Projects
 
+> A curated list of BUPT projects
+
+- [Contribution guide](CONTRIBUTING.md)
+
 ## 动机
 
 为小破邮的同学提供一个交流课程设计实践经验的平台。
@@ -124,3 +128,7 @@
 有任何问题欢迎
 [issue](https://github.com/Awesome-BUPT/Awesome-BUPT-Projects/issues)，
 在那之前请先阅读[贡献指南](CONTRIBUTING.md) 😇
+
+## License
+
+the licenses of the code are appended to the links, and included in the coresponding repository:)
