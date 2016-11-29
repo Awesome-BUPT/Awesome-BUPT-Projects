@@ -46,10 +46,10 @@
   * 语法分析
   * 语义分析
 
-## 贡献者列表
+## 贡献者及仓库索引
 有任何问题欢迎提交 [Issue](https://github.com/Awesome-BUPT/Awesome-BUPT-Projects/issues) 😉，在此之前请先阅读 [贡献指南](CONTRIBUTING.md)。
 
-以下**贡献者**及其维护的**仓库索引**（包含列表按字典序排列。
+以下为**贡献者**及其维护的**BUPT Projects 仓库索引**（字典序）
 
 * [BOT Man](https://github.com/BOT-Man-JL)
   * [BUPT Projects](https://github.com/BOT-Man-JL/BUPT-Projects) [MIT]
