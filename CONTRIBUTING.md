@@ -9,4 +9,10 @@
 * 无拼写或语法错误
 * 请在**贡献者及仓库索引**加入你的**GitHub链接**及**BUPT Projects链接**
 
+考虑到贡献者教育背景大多是在校本科生，故给出Pull Request的具体步骤：
+
+1. Fork this repository.
+2. 在自己的账号里找到新fork的项目，点击编辑README.md，按照格式规则添加进自己的project链接。
+3. Pull Request，我们将会检查格式要求是否合法，对于合法的PR我们会尽快merge。
+
 同时欢迎你为仓库添加新的项目分类，欢迎你提出任何意见！
