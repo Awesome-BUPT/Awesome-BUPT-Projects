@@ -22,6 +22,7 @@
 ### 语义分析
 
 - [Thesharing](https://github.com/Thesharing/school-projects/tree/master/Homework/Compile%20Principle/%E8%AF%AD%E4%B9%89%E5%88%86%E6%9E%90) [GPL-3.0]
+- [Xuanyue Yang](https://github.com/YangXuanyue/Compiler)
 
 ## 许可证
 此索引链接到的所有仓库均受链接后附加的对应许可证保护，其中 UDL 为用户自定义许可证。
