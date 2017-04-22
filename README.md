@@ -61,6 +61,7 @@
 * [Thesharing](https://github.com/Thesharing)
   * [School Projects](https://github.com/Thesharing/school-projects) [GPL-3.0]
 * [Seagullbird](https://github.com/seagullbird)
+* [YangXuanyue](https://github.com/YangXuanyue)
 * [Ye Wenting](https://github.com/YeWenting)
   * [BUPT Projects](https://github.com/YeWenting/BUPT-Projects) [UDL]
 
