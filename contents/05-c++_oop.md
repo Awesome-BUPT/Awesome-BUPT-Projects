@@ -15,5 +15,8 @@
 ### 球员俱乐部管理系统
 * [Forec](https://github.com/Forec/course-design) [UDL]
 
+### 单词消除游戏
+* [word_game](https://github.com/ltg001/word_game)[996]
+
 ## 许可证
 此索引链接到的所有仓库均受链接后附加的对应许可证保护，其中 UDL 为用户自定义许可证。
