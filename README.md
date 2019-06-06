@@ -21,6 +21,9 @@
   * 数据链路层协议
   * 逆向数据链路层实验环境
 
+* [计算机网络课程设计](contents/11-computer_network_practice.md)（本科二年级）
+  * DNS 中继服务器
+
 * [C++ 面向对象程序设计实践](contents/05-c++_oop.md)（本科二年级）
   * 宠物小精灵
   * 成绩管理系统
