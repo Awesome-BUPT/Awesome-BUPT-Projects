@@ -18,5 +18,8 @@
 ### 端口扫描
 * [Forec](https://github.com/Forec/port-scanner)：C++/Golang/Python 实现的端口扫描 [UDL]
 
+### DNS 中继服务器
+- [name1e5s](https://github.com/name1e5s/MuddyDNS)[GPL]
+
 ## 许可证
 此索引链接到的所有仓库均受链接后附加的对应许可证保护，其中 UDL 为用户自定义许可证。
