@@ -19,7 +19,11 @@
 * [Forec](https://github.com/Forec/port-scanner)：C++/Golang/Python 实现的端口扫描 [UDL]
 
 ### DNS 中继服务器
-- [name1e5s](https://github.com/name1e5s/MuddyDNS)[GPL]
+- [name1e5s](https://github.com/name1e5s/MuddyDNS) [GPL]
+- [BOT Man](https://github.com/BOT-Man-JL/BUPT-Projects/tree/master/3-2-Computer-Network/DNS-Relay) [GPL-3.0]
+
+### 逆向 DNS 中继服务器
+- [BOT Man](https://github.com/BOT-Man-JL/BUPT-Projects/tree/master/3-2-Computer-Network/Hack-DNS-Relay) [GPL-3.0]
 
 ## 许可证
 此索引链接到的所有仓库均受链接后附加的对应许可证保护，其中 UDL 为用户自定义许可证。
