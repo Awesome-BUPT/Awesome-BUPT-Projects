@@ -21,6 +21,7 @@
 ### DNS 中继服务器
 - [name1e5s](https://github.com/name1e5s/MuddyDNS) [GPL]
 - [BOT Man](https://github.com/BOT-Man-JL/BUPT-Projects/tree/master/3-2-Computer-Network/DNS-Relay) [GPL-3.0]
+- [JmPotato](https://github.com/JmPotato/DNS_Relay_Server) [MIT]
 
 ### 逆向 DNS 中继服务器
 - [BOT Man](https://github.com/BOT-Man-JL/BUPT-Projects/tree/master/3-2-Computer-Network/Hack-DNS-Relay) [GPL-3.0]
