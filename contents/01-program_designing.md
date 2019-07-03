@@ -17,6 +17,7 @@
 
 ### 车间调度模拟
 * [Name1e5s](https://github.com/name1e5s/JobShop) [WTFPL]
+* [JmPotato](https://github.com/JmPotato/JobShop) [AGPL-3.0]
 
 ## 许可证
 此索引链接到的所有仓库均受链接后附加的对应许可证保护，其中 UDL 为用户自定义许可证。
