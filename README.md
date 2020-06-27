@@ -47,6 +47,9 @@
   * 语法分析
   * 语义分析
 
+* [软件工程](contents/11-software_engineering.md)（本科三年级）
+  * 分布式温控计费系统
+
 ## 贡献者及仓库索引
 有任何问题欢迎提交 [Issue](https://github.com/Awesome-BUPT/Awesome-BUPT-Projects/issues) 😉，在此之前请先阅读 [贡献指南](CONTRIBUTING.md)。
 
