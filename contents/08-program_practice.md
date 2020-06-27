@@ -5,6 +5,7 @@
 * [Forec](https://github.com/Forec/cloud-storage)：云存储系统
 * [forec-org](https://github.com/forec-org/cloud-storage-client)：云存储系统的桌面客户端
 * [ZhangYuef](https://github.com/ZhangYuef/Hit-the-Mole)：打地鼠游戏
+* [name1e5s](https://github.com/name1e5s/pastebin.rs)：仿 Ubuntu Pastebin
 
 ## 许可证
 此索引链接到的所有仓库均受链接后附加的对应许可证保护，其中 UDL 为用户自定义许可证。
