@@ -11,6 +11,7 @@
 - [seagullbird](https://github.com/seagullbird/Tourguide_System)：使用 QT 设计图形化界面，数据库采用 Sqlite
 - [Ye Wenting](https://github.com/YeWenting/Results-Management-System)：使用模拟退火算法、分支界限法求解最优路线，使用 QT 设计图形化界面。[MIT]
 - [JmPotato](https://github.com/JmPotato/Travel_Simulation)：使用 Dijkstra 求解最优路线，数据库采用 Sqlite，使用 QT 设计图形化界面。[MIT]
+- [name1e5s](https://github.com/name1e5s/Travel-Simulation)
 
 ## 许可证
 此索引链接到的所有仓库均受链接后附加的对应许可证保护，其中 UDL 为用户自定义许可证。
