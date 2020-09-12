@@ -7,6 +7,7 @@
 - [BOT Man & Resurgam Akane & WalkerJG](https://github.com/BOT-Man-JL/BUPT-Projects/tree/master/2-1-Data-Structure/Travel%20Management%20Project) [MIT]
 - [Connor1996](https://github.com/Connor1996/Travel-Query-System)：数据结构课程设计的选题，采用QT开发
 - [Forec](https://github.com/Forec/course-design)：使用 `SPFA`、`Dijkstra` 求解最大值最优路径，模拟退火求解均衡最优路径， `A*` 求解限制最优路径，QT 设计界面 [UDL]
+- [Linyxus](https://github.com/linyxus/travel-agency)：使用`SPFA`求解最优路径，用Python的FFI接口调用由C++实现的算法，实现WebSocket服务器，与 HTML (Vue.js) 实现的前端通信。
 - [thiefuniverse](https://github.com/thiefuniverse/travel_plan)
 - [seagullbird](https://github.com/seagullbird/Tourguide_System)：使用 QT 设计图形化界面，数据库采用 Sqlite
 - [Ye Wenting](https://github.com/YeWenting/Results-Management-System)：使用模拟退火算法、分支界限法求解最优路线，使用 QT 设计图形化界面。[MIT]
